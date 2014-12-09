@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.qihoo.accessibilitydemo;
+package com.lihao.accessibilitydemo;
 
 
 import java.util.Locale;

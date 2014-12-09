@@ -1,4 +1,4 @@
-package com.qihoo.accessibilitydemo;
+package com.lihao.accessibilitydemo;
 
 import android.app.Activity;
 import android.os.Bundle;
