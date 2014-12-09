@@ -1,2 +1,10 @@
-bin
-gen
+bin/
+gen/
+
+.settings/
+
+*.iml
+.idea
+
+release/
+build/
